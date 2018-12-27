@@ -1,0 +1,18 @@
+Package: wiid4
+Type: Package
+Title: WIID – World Income Inequality Database
+Version: 0.1.0
+Authors@R: person("Bruno", "Rodrigues", email = "bruno@brodrigues.co",
+                  role = c("aut", "cre"))
+Maintainer@R: person("Bruno", "Rodrigues", email = "bruno@brodrigues.co",
+                  role = c("aut", "cre"))
+Description: The World Income Inequality Database (WIID) presents information on income inequality 
+    for developed, developing, and transition countries. It provides the most comprehensive set of 
+    income inequality statistics available and can be downloaded for free, 
+    [here](https://www.wider.unu.edu/database/world-income-inequality-database-wiid4).
+Depends: R (>= 2.10)
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+VignetteBuilder: knitr
